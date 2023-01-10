@@ -16,5 +16,5 @@ Program ini dibuat untuk Capstone Project Modul 1 menggunakan bahasa pemrograman
 
 <h1 align="center">Capstone Project Module 2 JCDS 1902</h1>
 <p align='center'>https://github.com/anadfr/JCDS-Repository/blob/main/Capstone2.ipynb</p>
-<p align='center'>link</p>
+<p align='center'>https://public.tableau.com/views/Capstone2_16733650763830/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link</p>
 <p align='center'>link</p>
