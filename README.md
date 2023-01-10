@@ -13,3 +13,8 @@ Program ini dibuat untuk Capstone Project Modul 1 menggunakan bahasa pemrograman
 3. Menambahkan data
 4. Menghapus data
 5. Keluar program
+
+<h1 align="center">Capstone Project Module 2 JCDS 1902</h1>
+<p align='center'>link</p>
+<p align='center'>link</p>
+<p align='center'>link</p>
