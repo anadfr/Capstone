@@ -1,5 +1,6 @@
 <h1 align="center">Capstone Project Module 1 JCDS 1902</h1>
 <p align="center">Abdurrahman Nur Ashri Diasta Fajar Ramadlan</p>
+<p align="center">https://github.com/anadfr/JCDS-Repository/blob/main/Capstone1.py</p>
 
 <h2>Tentang Program</h2>
 
